@@ -1,5 +1,5 @@
 [package]
-name = "pallet-did"
+name = "rack-did"
 version = '2.0.0'
 description = 'Substrate Decentralized ID Pallet'
 edition = '2018'
