@@ -1,4 +1,4 @@
-# Substrate DID Pallet
+# Tetcore DID Rack
 
 The DID pallet provides functionality for DIDs management. It uses a universal identity registry where all the required data is associated with an address. It enables the possibility to create a portable, persistent,  privacy-protecting, and personal identity.
 
